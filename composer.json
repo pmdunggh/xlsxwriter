@@ -1,0 +1,22 @@
+{
+    "name": "pmdunggh/xlsxwriter",
+    "version": "0.4.0",
+    "type": "library",
+    "description": "Write large XLSX file row by row",
+    "keywords": ["xlsxwriter", "large file", "large xlsx", "xlsx"],
+    "license": "GNU v3.0",
+    "authors": [
+        {
+            "name": "Pham Minh Dung",
+            "email": "pmdung@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "VanXuan\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
